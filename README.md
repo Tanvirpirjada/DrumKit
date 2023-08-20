@@ -20,6 +20,8 @@ Alternatively, use the keyboard keys associated with each drum to trigger the so
 Usage
 Using the Drum Kit application is straightforward:
 
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210102194745/1st.png"></img>
+
 Mouse Interaction: Click on the drum buttons to play the corresponding drum sound.
 Keyboard Interaction: Alternatively, you can use the keyboard keys associated with each drum to trigger the sounds.
 Attribution
